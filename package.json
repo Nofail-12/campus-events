@@ -1,0 +1,21 @@
+{
+  "name": "campus-events",
+  "version": "1.0.0",
+  "description": "Campus Event Management Website",
+  "scripts": {
+    "build": "parcel build src/index.html --dist-dir dist",
+    "build-all": "parcel build src/*.html --dist-dir dist",
+    "start": "parcel src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nofail-12/campus-events.git"
+  },
+  "keywords": ["campus", "events", "website"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nofail-12/campus-events/issues"
+  },
+  "homepage": "https://github.com/Nofail-12/campus-events#readme"
+}
